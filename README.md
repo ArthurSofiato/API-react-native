@@ -18,8 +18,8 @@ Certifique-se de ter instalado:
 
 2️⃣ **Clone o repositório**  
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/ArthurSofiato/API-react-native.git
+cd API-react-native
 
 
 3️⃣ Instale as dependências  
